@@ -1,0 +1,17 @@
+[
+    {
+        "employee_name": "Chuah Boon Siong",
+        "gender": "Male",
+        "martial_status": "Single",
+        "phone_no": "0174942388",
+        "email": "boonsiongchuah@gmail.com",
+        "address": "pintas kalui 2 seberang jaya 13700 perai pulau pinang\n4",
+        "date_of_birth": "2002-03-19",
+        "nationality": "Malaysian",
+        "hire_date": "2025-02-26",
+        "department": "IT",
+        "position": "Software Engineer",
+        "salary": "4000",
+        "id": "67bda064880c5"
+    }
+]
